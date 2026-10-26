@@ -23,7 +23,7 @@ jackson@github:~$ whoami
 
 NAME       >> Jackson Paul J
 LOCATION   >> Bengaluru, India
-ROLE       >> IT Support Engineer
+ROLE       >> IT Engineer L2
 MODE       >> BUILDING + LEARNING + AUTOMATING
 STATUS     >> ● ONLINE
 ```
@@ -172,14 +172,6 @@ Structured troubleshooting and operational documentation designed to make knowle
 </div>
 
 ---
-
-## 🐍 CONTRIBUTION // GRID
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/minibillgates7265/minibillgates7265/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-
-</div>
 
 ---
 
