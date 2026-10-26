@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ JACKSON PAUL J
+# ⚡ JACKSON PAUL J ⚡
 
 ### `IT SUPPORT T2/L2` • `ENDPOINT ENGINEERING` • `AUTOMATION` • `AI`
 
