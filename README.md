@@ -2,7 +2,7 @@
 
 # ⚡ JACKSON PAUL J
 
-### `IT SUPPORT` • `ENDPOINT ENGINEERING` • `AUTOMATION` • `AI`
+### `IT SUPPORT T2/L2` • `ENDPOINT ENGINEERING` • `AUTOMATION` • `AI`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=%3E+Initialising+Jackson.exe...;%3E+IT+Support+Engineer;%3E+Windows+%7C+macOS+%7C+Microsoft+365;%3E+Endpoint+Management+%7C+Automation;%3E+AI+%2B+IT+%3D+Smarter+Support;%3E+BUILD+%E2%86%92+SOLVE+%E2%86%92+AUTOMATE+%F0%9F%9A%80" alt="Typing introduction" />
 
@@ -23,7 +23,7 @@ jackson@github:~$ whoami
 
 NAME       >> Jackson Paul J
 LOCATION   >> Bengaluru, India
-ROLE       >> IT Engineer L2
+ROLE       >> IT Engineer T2/L2
 MODE       >> BUILDING + LEARNING + AUTOMATING
 STATUS     >> ● ONLINE
 ```
@@ -97,7 +97,7 @@ My world revolves around:
 │                       JACKSON LAB                            │
 ├──────────────────────────────────────────────────────────────┤
 │  🤖  AI AGENTS             → Intelligent IT Assistance       │
-│  ⚡  AUTOMATION            → Smarter IT Workflows            │
+│  ⚡  AUTOMATION             → Smarter IT Workflows             │
 │  📦  ASSET MANAGEMENT      → Inventory + Allocation          │
 │  📊  DASHBOARDS            → IT Operations Visibility        │
 │  🧠  KNOWLEDGE SYSTEMS     → Better Support Documentation    │
@@ -172,17 +172,6 @@ Structured troubleshooting and operational documentation designed to make knowle
 </div>
 
 ---
-
----
-
-## 📈 ACTIVITY // GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minibillgates7265&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
 ---
 
 ## 🎯 CURRENT // DIRECTION
