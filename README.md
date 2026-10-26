@@ -9,7 +9,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=minibillgates7265&label=PROFILE+VIEWS&color=00c896&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/minibillgates7265?style=for-the-badge&color=00c896&labelColor=0d1117)
 ![GitHub Stars](https://img.shields.io/github/stars/minibillgates7265?style=for-the-badge&color=00c896&labelColor=0d1117)
 
 </div>
